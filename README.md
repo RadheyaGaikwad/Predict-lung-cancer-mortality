@@ -1,0 +1,1 @@
+## Indicates whether the patient survived (e.g., yes, no).   
